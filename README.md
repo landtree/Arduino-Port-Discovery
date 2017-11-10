@@ -1,10 +1,12 @@
 # Arduino-Port-Discovery
 Discovers and assigns port location for the raspberry pi.
 Currently Supports:
-  Arduino Mega
-  Arduino Uno
-  Arduino Leonardo 
-  Sparkfun Redboard
+/n  Arduino Mega
+/n  Arduino Uno
+/n  Arduino Leonardo 
+/n  Sparkfun Redboard
+/n  FTDI Cables
+/n  FTDI USB Chips (SparkFun FTDI Basic)
 
 More will come as I get my hands on them.
 
